@@ -1,0 +1,18 @@
+main:
+
+  Teaching:
+    
+      - title: Counseling Assistant, Fall 2024, KAIST School of Computing
+      - title: Teaching Assistant, Spring 2025, Data Structure (CS.20006), KAIST
+      - title: Counseling Assistant, Spring 2026, KAIST School of Computing
+      # - title: IEEE/CVF International Conference on Computer Vision (ICCV) 2021
+      #   link: http://iccv2021.thecvf.com/
+      # - title: European Conference on Computer Vision (ECCV) 2022
+      #   link: https://eccv2022.ecva.net/
+
+  # Journal Reviewers:
+
+  #     - title: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+  #       link: https://www.computer.org/csdl/journal/tp
+  #     - title: International Journal of Computer Vision (IJCV)
+  #       link: https://www.springer.com/journal/11263
