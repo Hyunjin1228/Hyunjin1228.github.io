@@ -6,6 +6,8 @@ layout: homepage
 
 I am Hyunjin Kim, a  PhD student at [KAIST School of Computing](https://www.cs.kaist.ac.kr), advised by Prof. [Jae-Gil Lee](https://www.kaistdmlab.org/jaegil). I received both my Masters and Bachelors degree at [KAIST](https://www.kaist.ac.kr). 
 
+My research focuses on efficient and reliable large language models, with an emphasis on data-centric learning and inference optimization. I study how to reduce computational overhead during inference while maintaining strong performance, particularly in long-context settings.
+
 <!-- 
 ## Research Interests
 
