@@ -1,10 +1,27 @@
 main:
+  - title: "Clustering-Based Balanced Sampling and Allocation with Data Parallelism for High-Performance Fine-Tuning"
+    authors: <strong>Hyunjin Kim</strong>, Youngeun Nam, Jaemin Han, Wonhyeok Choi, Jae-Gil Lee
+    # conference_short: EMNLP
+    # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026.
+    # pdf: https://arxiv.org/pdf/2602.21760
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/cluster.png
+    
+  - title: "TimelyFreeze: Adaptive Parameter Freezing Mechanism for Pipeline Parallelism"
+    authors: <strong>Seonghye Cho</strong>, Jaemin Han, Hyunjin Kim, Euisoo Jung, Jae-Gil Lee
+    conference: ArXiv
+    pdf: https://arxiv.org/pdf/2602.21760
+    image: ./assets/img/timelyfreeze.png
+    
   - title: "Accelerating Diffusion via Hybrid Data-Pipeline Parallelism Based on Conditional Guidance Scheduling"
     authors: <strong>Euisoo Jung</strong>, Byunghyun Kim, Hyunjin Kim, Seonghye Cho, Jae-Gil Lee
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026.
     pdf: https://arxiv.org/pdf/2602.21760
-    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    code: https://github.com/kaist-dmlab/Hybridiff
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
