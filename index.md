@@ -20,7 +20,7 @@ My research focuses on efficient and reliable large language models, with an emp
 ## News
 
 - **[Feb. 2026]** Started PhD Progam at KAIST School of Computing. (Advisor: Prof. [Jae-Gil Lee](https://www.kaistdmlab.org/jaegil))
-- **[Feb. 2026]** Our paper [HybridDiff](https://arxiv.org/pdf/2602.21760) is accepted to CVPR 2026.
+- **[Feb. 2026]** [HybridDiff](https://arxiv.org/pdf/2602.21760) is accepted to CVPR 2026.
 - **[Feb. 2024]** Started Master's Progam at KAIST School of Computing. (Advisor: Prof. [Jae-Gil Lee](https://www.kaistdmlab.org/jaegil))
 
 
