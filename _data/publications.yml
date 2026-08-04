@@ -14,7 +14,7 @@ main:
     authors: Seonghye Cho, Jaemin Han, <strong>Hyunjin Kim</strong>, Euisoo Jung, Jae-Gil Lee
     conference_short: ArXiv
     conference: ArXiv, 2026.
-    pdf: https://arxiv.org/pdf/2602.21760
+    pdf: https://arxiv.org/abs/2602.06036
     image: ./assets/img/timelyfreeze.png
     
   - title: "Accelerating Diffusion via Hybrid Data-Pipeline Parallelism Based on Conditional Guidance Scheduling"
