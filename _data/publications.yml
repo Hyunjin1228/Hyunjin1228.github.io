@@ -11,14 +11,14 @@ main:
     image: ./assets/img/cluster.png
     
   - title: "TimelyFreeze: Adaptive Parameter Freezing Mechanism for Pipeline Parallelism"
-    authors: <strong>Seonghye Cho</strong>, Jaemin Han, Hyunjin Kim, Euisoo Jung, Jae-Gil Lee
+    authors: Seonghye Cho, Jaemin Han, <strong>Hyunjin Kim</strong>, Euisoo Jung, Jae-Gil Lee
     conference_short: ArXiv
     conference: ArXiv, 2026.
     pdf: https://arxiv.org/pdf/2602.21760
     image: ./assets/img/timelyfreeze.png
     
   - title: "Accelerating Diffusion via Hybrid Data-Pipeline Parallelism Based on Conditional Guidance Scheduling"
-    authors: <strong>Euisoo Jung</strong>, Byunghyun Kim, Hyunjin Kim, Seonghye Cho, Jae-Gil Lee
+    authors: Euisoo Jung, Byunghyun Kim, <strong>Hyunjin Kim</strong>, Seonghye Cho, Jae-Gil Lee
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026.
     pdf: https://arxiv.org/pdf/2602.21760
