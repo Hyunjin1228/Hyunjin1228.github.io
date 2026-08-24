@@ -1,7 +1,7 @@
 main:
   - title: "Clustering-Based Balanced Sampling and Allocation with Data Parallelism for High-Performance Fine-Tuning"
     authors: <strong>Hyunjin Kim</strong>, Youngeun Nam, Jaemin Han, Wonhyeok Choi, Jae-Gil Lee
-    conference_short: Under-review
+    conference_short: EMNLP
     conference: Proceedings of the 2026 conference on empirical methods in natural language processing <strong>(EMNLP)</strong>, 2026.
     # pdf: https://arxiv.org/pdf/2602.21760
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
