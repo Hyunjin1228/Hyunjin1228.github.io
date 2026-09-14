@@ -4,7 +4,7 @@ main:
     conference_short: EMNLP
     conference: Conference on empirical methods in natural language processing <strong>(EMNLP)</strong>, 2026.
     pdf: https://arxiv.org/pdf/2609.12584
-    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    code: https://github.com/kaist-dmlab/CluSTER
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
